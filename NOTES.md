@@ -20,3 +20,5 @@ What could have been done with more time
   - like Milk could be a category of a product , with parameters like type : skimmed , semi-skimmer , full-fat , Brands
 - catalogue a list of all possible offers, and try to add a few different ones in this design. And see what could be improved
   - example , offers could live in database , which would make it easier for a business (non-technical) person to add / amend an offer, that too without a release.
+- unit testing could be extended
+  - example : BasketTest should include test to ensure offer-service is being called
